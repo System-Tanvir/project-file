@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title>html project</title>
+   </head>
+   <body>
+   <table bgcolor="#F6F6F6" width="1140" cellpadding="20" cellspacing="20" align="center">
+
+   <!-- Header Start -->
+   <tr bgcolor="#F6F6F6">
+    <td>
+	  <table width="100%" cellpadding="20" cellspacing="0">
+	  <tr>
+	  <td width="60%">
+	    <img src="image/logo.png"/>
+		</td>
+		</td>
+		<td width="25%">
+		<table>
+		   <tr>
+		    <td rowspan="2">
+			<img src="image/index.png2.png"/>
+			</td>
+			<td>
+			  <a href="tel:+8801624666000">
+			  <font color="#444" size="3"> + 8801624666000</font></a>
+			  </td>
+			  </tr>
+			  <tr>
+			   <td>
+			  <a href="tel:+8801624888444">
+			  <font color="#444" size="3"> + 8801624888444</font></a>
+			  </td>
+			  </tr>
+			  </table>
+			  </td>
+			  <td width="25%">
+			     <table>
+				      <tr>
+					  <td rowspan="2">
+					  <img src="image/index.png"/>
+					  </td>
+					  <td>
+					     <a href="mailto:info@creativeitinstitute.com"><font color="#444" size="3">info@creativeitinstitute.com</font></a>
+						 </td>
+						 </tr>
+						 <tr>
+						 <td>
+						 <a href="mailto:info@creativeitinstitute.com"><font color="444" size="3">help@creativeitinstitute.com</font></a>
+						 </td>
+						 </tr>
+						 </table>
+						 </td>
+						 </tr>
+						 </table>
+						 </td>
+						 </tr>
+			<!-- header ends -->
+			
+			<!-- Navigation bar on -->
+<tr bgcolor="#FFFFFF">
+        <td>
+      <table width="1250" align="center">
+          <tr>
+           
+		   <td>
+               			   <table width="100%" height="60" cellpadding="20">
+                <tr>
+                 <td>
+                 <a href="#"> <font color="#444" size="4">Home</font></a>
+                    </td>
+                    <td>
+                      <a href="#"><font color="#444" size="4">About</font></a>
+                  </td>
+                    <td>
+                    <a href="#"><font color="#444" size="4">Courses</font></a>
+                    </td>
+                    <td>
+                      <a href="#"
+                        ><font color="#444" size="4">Admission</font></a
+                      >
+                    </td>
+                    <td>
+                      <a href="#"
+                        ><font color="#444" size="4">Job Placement</font></a
+                      >
+                    </td>
+                    <td>
+                      <a href="#"
+                        ><font color="#444" size="4">Freelancing</font></a
+                      >
+                    </td>
+                    <td>
+                      <a href="#"><font color="#444" size="4">Others</font></a>
+                    </td>
+                    <td>
+                      <a href="#"><font color="#444" size="4">Blog</font></a>
+                    </td>
+                    <td>
+                      <a href="#"
+                        ><font color="#444" size="4">CTG Branch</font></a
+                      >
+                    </td>
+                    <td>
+                      <a href="#"><font color="#444" size="4">Contact</font></a>
+                    </td>
+                    <td bgcolor=" #fa3910">
+                      <a href="#"
+                        ><font color="#FFFFFF" size="4">Seminars</font></a
+                      >
+     </td>
+     </tr>
+     </table>
+      </td>
+      </tr>
+       </table>
+      </td>
+      </tr>			
+			<!-- navigation bar end -->
+
+<!-- Site Banner -->
+  <tr>
+    <td>
+       <img width="100%" src="image/b8.jpg"/>
+   </td>
+      </tr>
+    <!-- Banner site end -->
+
+
+     <!-- Power Section -->
+ <tr bgcolor="#FFFFFF">
+        <td>
+          <table width="1180" height="160" align="center" cellspacing="5">
+            <tr>
+              <td bgcolor="#F6F6F6" align="center">
+                <a href="#">
+                  <table cellpadding="10">
+                    <tr height="100%">
+                      <td align="center" bgcolor="#F6F6F6">
+                        <img src="image/image.jpg" alt="powersection 1" />
+                      </td>
+                    </tr>
+                    <tr>
+					<td align="center">
+                        <font color="#444" size="5"
+                          >13 Years of Excellence</font
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </td>
+              <td bgcolor="#F6F6F6" align="center">
+                <a href="#">
+                  <table cellpadding="10">
+                    <tr height="100%">
+                      <td align="center" bgcolor="#F6F6F6">
+                        <img src="image/image2.jpg" alt="powersection 2" />
+                      </td>
+                    </tr>
+                    <tr>
+					<td align="center">
+                        <font color="#444" size="5"
+                          >50000+ Trained Students</font
+                        >
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </td>
+              <td bgcolor="#F6F6F6" align="center">
+                <a href="#">
+                  <table cellpadding="10">
+                    <tr height="100%">
+                      <td align="center">
+                        <img src="image/image3.jpg" alt="powersection3" />
+                      </td>
+                    </tr>
+					<tr>
+                      <td>
+                        <font color="#444" size="5">16000+ Job Placements</font>
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </td>
+              <td bgcolor="#F6F6F6" align="center">
+                <a href="#">
+                  <table cellpadding="10">
+                    <tr height="100%">
+                      <td align="center">
+                        <img src="image/image4.jpg" alt="powersection4" />
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <font color="#444" size="5">100+ Expert Trainers</font>
+                      </td>
+                    </tr>
+                  </table>
+                </a>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+<!-- powersection ends -->
+<!--Description part-->
+      <tr bgcolor="#FFFFFF">
+        <td>
+          <br /><br />
+          <table width="1120" align="center" cellpadding="10">
+            <tr>
+              <td align="center">
+                <font size="6" font-family="sans-serif"
+                  >Welcome to <font color="red">Creative IT Institute</font>:
+                  Where IT Leaders are Created</font
+                >
+                <br /><br />
+              </td>
+            </tr>
+            <tr>
+              <td align="justify">
+                <font size="4" color="#444" font-family="sans-serif">
+                  Creative IT Institute, one of the leading IT training
+                  institutes in Bangladesh offers the best training
+                  opportunities. It has been playing a vital role to eradicate
+                  the unemployment problem since 2008. Enriched with quality
+                  training this institute has never failed to help the
+                  individuals to reveal their talents making harmony between
+                  creativity and IT. No matter what is your background, we are
+                  offering 30 courses for you conducted by experienced trainers
+                  to advance your skills. <br /><br />
+                  CIT has tremendously well-decorated two campuses with upgraded
+                  equipment. Our students are very much happy with our culture,
+                  environment and outstanding training method. We are passionate
+                  about providing good service to our students. Thus, the
+                  students of this institute turn out to be successful marketers
+                  and establish their careers in various companies as well. We
+                  dedicatedly provide flexible training options such as online
+                  training, 24/7 support, lifetime post-training support, job
+                  placement and so on. We always maintain the standards of
+                  excellence which are visible on
+                  <a href="#"><font color="red">Facebook Reviews</font></a> and
+                  <a href="#"><font color="red">Google Reviews.</font></a>
+                </font>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+
+      <!--Description part ends-->
+	  <!-- Courses details  Start--->
+		
+  
+<table border="0" width="1140" cellpadding="20" cellspacing="20" align="center">
+																
+			<tr>
+			<td>
+			<table border="0" width="100%" align="center">
+						<h2 align="center">Our Courses</h2>
+			<h4 align="center">Explore the weapons of Latest Information Technology</h4>
+				   </tr>
+				   
+<tr>
+		<td rowspan="0">		   
+					<tr>
+					
+
+			<td width="30%"> <h1>Professional Graphic Design</h1>
+			
+			<p>The main purpose here is to make you able to use graphic design tools and techniques in a professional way. Graphic Design helps to build brand identity of a company. Thus it needs to be conceptual an...</p>
+			
+			</td>
+			<td width="20#"><img src="https://www.creativeitinstitute.com/front/images/courses_qube/graphic.webp"></td>
+	
+			
+
+			
+									
+	</tr>		
+			
+			
+	
+	</tr>
+	</table>
+<!---Courses details  Ends --->
+
+<!-- Student information starts--->
+			<form>
+				<tr>
+					<td>
+						<table border="0"  align="center">
+							<h2 align="center"> Other Courses</h2>
+						<td width="20%">
+							<h4 align="left"> Career Counselling</h4>
+								<label for="Name" colspan="1">
+								<input type="text" required="" id="Name" placeholder=" Enter your name"width="30%">
+					
+								<label for="tel number" colspan="1">
+								<input type="number" id="tel number" placeholder=" Enter your tel number"width="30%">
+						 			
+								<label for="Email"colspan="1" >
+								<input type="text" id="Email" placeholder=" Enter your eamil id"width="30%">
+								
+								<label for="submit"colspan="1"  >
+								<button type="submit" colspan="1">Submit</button>
+									
+		
+							<br><td width="0%" rowspan="1"><img src="https://www.creativeitinstitute.com/front/images/counselling.png" align="right"></td>
+							</td>			
+			</tr>
+			</form>
+</table>
+<!-- Student Information Ends--->
+
+<!-- About Facilites Starts-->
+												<table border="0" width="1140"  align="center">
+																<tr>
+
+																<td width="100%" align="center"><h2>Our Facilities</h2>
+																<p>Explore the weapons of Latest Information Technology!</p>
+																
+																</td>
+																
+																
+																	<tr>
+			<td>
+			<table border="0" width="1140" cellpadding="20" cellspacing="20" align="center">				
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/24x7.png" alt="" align="middle"><p><font size="4">24/7 Online Support</font><br></br>
+			
+24/7 Online Support- We always listen to our students. Any time they are in a problem, our team is always online for providing support to them. Even at night, we are online for your projects ongoing.</P> </td>
+
+
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/faci1.png" alt="" align="middle"><p><font size="4">Lifetime Support</font> <br></br>
+						All CITI students get supports for life. For any live project get our experts' guideline and maintain it in international standard.</p></td>
+
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/faci2.png" align="center"><p><font size="4">Practice Lab Support</font><br></br>
+We offer lab practise facilities for weak students where they can practice the task and be able to hold the attention by solving what is not understood by them.</p></td>
+			
+			
+			<tr>
+			
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/faci3.png" align="middle"><p><font size="4">Class Video</font><br></br>
+Get the recorded lectures and class practical as video. It will create a good storage of materials for future. And you can practice at home with the help of these materials.</p></td>
+			
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/faci4.png" align="middle"><p><font size="4">Review Class</font><br></br>
+Ensure 100% learning of tools, techniques, designs by our review classes for each batch. Better understand the difficult terms by revising every topic.</p></td>
+			
+				<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/faci5.png" align="middle"><p><font size="4">Job Placement</font><br></br>
+Acquire exclusive opportunities to work in international marketplaces as an expert freelancer. CITI creates opportunities by adding value to your career..</p></td>
+			
+				
+				
+	</tr>		
+			</td>
+			
+			</tr>		
+
+	</tr>
+</table>
+<!-- About Facilites Ends-->
+
+<!---Logo part Start--->
+<table border="0" width="1140" cellpadding="20" cellspacing="20" align="center">
+																
+			<tr>
+			<td>
+			<table border="0" width="100%" align="center">
+
+         <tr>			
+			<td width="50%"><img src="https://www.creativeitinstitute.com/front/images/iso.webp" alt="" align="center"></td>
+			
+
+
+			<td width="50%"><img src="https://www.creativeitinstitute.com/front/images/mou.webp" alt="" align="center"></td>
+									
+	</tr>		
+			
+			
+	
+	</tr>
+	</table>
+	<!---Logo part End--->	
+
+	
+	<!--- Leader Part Start--->
+		<table border="0" width="1140" cellpadding="20" cellspacing="20" align="center">			
+	<tr>
+	
+			
+<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/ceo2.webp" alt="" align="middle"><p>As one the leading it solution is trainnig company in Bangladesh</p><br></br>
+	
+	</tr>
+	</table>
+	
+	   <!---All logo part start--->
+	
+			<tr>
+			<td>
+			<table border="0" width="1140" align="center">				
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/partner19.png"> </td>
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/partner8.png" ></td>
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/partner6.png"></td>
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/partner4.png"></td>
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/partner2.png"></td>
+			
+			</tr>
+			<br></br>
+			<tr>
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/partner21.png"></td>
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/partner12.png"></td>
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/partner1.png"></td>
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/partner13.png"></td>
+			<td width="20%"><img src="https://www.creativeitinstitute.com/front/images/partner17.png"></td>
+		
+			
+			</tr>
+
+			</td>
+			
+			</tr>	
+</table>			
+	<!---End Part---->
+	<tr>
+			<td>
+			<table border="0" width="1140" align="center">				
+			<td width="30%"><img src="https://www.creativeitinstitute.com/front/images/footer-logo.png">
+			
+			CHANGE I GROW I SUCCEED
+			</td>
+			<td width="10%">
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuc8zA-9Y-RD9Gbrh_0opIzkOnTjaZX6-ei9pXwpU&usqp=CAU" width="20%" height=""  alt="">
+			<br>
+			Contact Us
+			<br>
+			Head Office:
+			Momtaz Plaza (4th Floor) House#7, 
+			Road#4, Dhanmondi, Dhaka-1205
+			   
+			</td>
+			<br></br>
+			<td width="10%">
+			<img src="https://image.shutterstock.com/image-vector/phone-receiver-vector-icon-style-260nw-344504414.jpg" width="20%" height="" alt="">
+			<br>
+			<a href="tel:+8801624666000">+8801624666000</a>
+	
+			</td>
+			
+			<td width="10%">
+			<br>
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9FDnbMSY8gLVLsi_bK884QZTBfskrtX6fA&usqp=CAU" width="20%" height="" alt="">
+						
+					<a href="info@creativeitinstitute.com">info@creativeitinstitute.com</a>
+					<a href="help@creativeitinstitute.com">help@creativeitinstitute.com</a>
+									</td>
+			
+</tbody>
+</table>
+</html>
+
